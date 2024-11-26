@@ -1,0 +1,7 @@
+{
+  "checkpoint": "models/ptngs/model.keras",
+  "format": "XVID",
+  "output": "data/output/webcam.avi",
+  "camera": 1,
+  "size": [640, 480]
+}

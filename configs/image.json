@@ -1,0 +1,6 @@
+{
+  "checkpoint": "models/ptngs/model.keras",
+  "image": "data/images/content_5.jpg",
+  "image_size": [1366, 768],
+  "output": "data/output/styled_5.jpg"
+}

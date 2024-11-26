@@ -1,0 +1,7 @@
+{
+  "checkpoint": "models/ptngs/model.keras",
+  "format": "XVID",
+  "video": "data/videos/demo_vid.mp4",
+  "output": "data/output/styled_video.avi",
+  "size": [640, 480]
+}
