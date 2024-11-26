@@ -7,6 +7,11 @@
 - Lavinia Nongbri (23D0383)
 - Manish Kumar Saini (24M2112)
 
+### Extra Experiments Suggested by Prof. Preethi
+- Implemented Jonhson et. al. technique for some rich textured (Indian Paintings) style image as suggested by Prof. Preethi.
+- Style Image : data/paintings/styles_13.jpg
+- Results Dir : data/output/
+  
 ### Installing dependencies
 
 The command below will install all the required dependencies from `requirements.txt` file.
@@ -47,7 +52,8 @@ Use notebook `neural-style-transfer-1.ipynb`
 
 - [Johnson, J., & Alahi, A. (2016). Perceptual Losses for Real-Time Style Transfer and Super-Resolution. ArXiv.](https://arxiv.org/abs/1603.08155)
 
-Use notebook `neural-style-transfer-2.ipynb`
+
+- Use notebook `neural-style-transfer-2.ipynb`
 
 To perform multi-style neural style transfer, use the notebook `neural-style-transfer-multi-style.py`. 
 You can adjust the influence of each style by modifying the `gamm_ratio` parameter in the code.
